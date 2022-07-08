@@ -125,7 +125,7 @@
     "match-sorter": "^2.3.0",
     "mdi-material-ui": "^6.2.0",
     "meteor-node-stubs": "^0.4.1",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.28",
     "mongodb": "^3.7.3",
     "node-fetch": "^2.6.7",
